@@ -1,0 +1,2 @@
+This is Alpha.Txt.
+This is editing it.
